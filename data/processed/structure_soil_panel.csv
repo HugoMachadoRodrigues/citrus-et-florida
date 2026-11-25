@@ -1,0 +1,5 @@
+group,lnet_b_per_pp,lnet_recent_without_tcc,lnet_recent_with_tcc,lnet_long_without_tcc,lnet_long_with_tcc,lnkc_b_per_pp,lnkc_recent_without_tcc,lnkc_recent_with_tcc,lnkc_long_without_tcc,lnkc_long_with_tcc
+All,0.689,-4.163,-3.798,-3.805,-1.806,0.610,-8.190,-7.867,-5.328,-3.559
+Indian River,0.370,-1.551,-0.718,-1.986,-0.039,0.388,-9.481,-8.606,-4.404,-2.359
+Ridge,1.752,-6.419,-5.996,-7.069,-5.500,1.776,-9.380,-8.951,-9.221,-7.631
+Southwest Flatwoods,0.829,-3.580,-3.369,-2.469,0.356,0.750,-7.217,-7.025,-3.423,-0.865

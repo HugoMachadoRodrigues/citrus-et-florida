@@ -1,0 +1,6 @@
+test,subset,n,bias_pct,rmse_mm_month,r,median_nearest_km,change_obs_minus_pred_pp_median,stations_with_change
+leave-one-year-out scaling,all,5018,0.069,3.800,0.994,,,
+in-sample scaling (as in script 05),all,5018,0.161,3.610,0.995,,,
+unscaled daily FAO-56,all,5018,11.181,13.014,0.975,,,
+leave-one-station-out (eto_mm),16 stations,3988,0.565,6.643,0.982,36.382,1.016,8.000
+leave-one-station-out (eto_windclim_mm),16 stations,4022,0.617,6.147,0.985,33.750,-0.777,8.000

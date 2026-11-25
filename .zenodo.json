@@ -1,0 +1,27 @@
+{
+  "upload_type": "dataset",
+  "title": "Data and code for: Evapotranspiration of Persistent Florida Citrus Groves during the Huanglongbing Era: Sensitivity to Reference Evapotranspiration and Links to Canopy and Soil Water Storage",
+  "version": "1.0",
+  "creators": [
+    {
+      "name": "Rodrigues, Hugo",
+      "affiliation": "Range Cattle Research and Education Center, Institute of Food and Agricultural Sciences, University of Florida"
+    }
+  ],
+  "description": "Scripts, derived data and figures that reproduce every number, table and figure of the article \"Evapotranspiration of Persistent Florida Citrus Groves during the Huanglongbing Era: Sensitivity to Reference Evapotranspiration and Links to Canopy and Soil Water Storage\", submitted to Land (MDPI), Special Issue \"Monitoring and Modelling the Water and Carbon Dynamics in the Soil-Plant-Atmosphere Continuum\". The archive reconstructs 2000-2025 OpenET v2.1 evapotranspiration for 1698 one-kilometre cells (87,225 ha) of persistent Florida citrus groves under four reference evapotranspiration scenarios (raw and bias-corrected gridMET; FAWN station ET0 with measured and with standardized wind), with validation at the USGS citrus ET tower near Arcadia, hurricane wind exposure from HURDAT2, a comparison with the historical UF/IFAS crop coefficients, a NAIP canopy index and gNATSGO soil water storage. Google Earth Engine inputs are not redistributed; their identifiers are given in README.md and in the scripts. WORKFLOW.md describes each script and the order of execution. Code: MIT License (LICENSE-CODE). Data and figures: CC BY 4.0 (LICENSE-DATA).",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "evapotranspiration",
+    "soil-plant-atmosphere continuum",
+    "OpenET",
+    "reference evapotranspiration",
+    "huanglongbing",
+    "hurricane",
+    "soil water storage",
+    "citrus",
+    "FAWN",
+    "gridMET",
+    "Florida"
+  ]
+}

@@ -1,0 +1,73 @@
+variant,region,contrast,dln_kc,ci_lo,ci_hi,dln_et,et_lo,et_hi,median_cells_per_year
+all valid months (as in the paper),All,2000-05 vs 2019-25,-4.956,-11.010,1.423,-3.409,-7.234,0.732,1697.000
+all valid months (as in the paper),All,2015-19 vs 2021-25 (no 2020),-7.849,-12.018,-3.241,-3.791,-6.819,-0.943,1697.000
+all valid months (as in the paper),All,2016-20 vs 2021-25,-8.351,-12.810,-3.403,-4.338,-7.795,-0.937,1697.000
+all valid months (as in the paper),All,2010-19 vs 2023-25,-10.312,-12.256,-7.794,-5.028,-6.966,-3.230,1697.000
+all valid months (as in the paper),All,2015-19 vs 2021-23,-5.510,-10.163,-0.709,-1.722,-3.734,0.400,1697.000
+all valid months (as in the paper),All,2020 vs 2023-25,-16.228,,,-10.218,,,1697.000
+all valid months (as in the paper),Indian River,2000-05 vs 2019-25,-4.411,-8.538,0.083,-1.922,-4.973,1.289,217.000
+all valid months (as in the paper),Indian River,2015-19 vs 2021-25 (no 2020),-9.486,-11.978,-6.751,-1.519,-4.154,0.992,217.000
+all valid months (as in the paper),Indian River,2016-20 vs 2021-25,-8.825,-10.898,-6.554,-0.602,-2.340,1.131,217.000
+all valid months (as in the paper),Indian River,2010-19 vs 2023-25,-7.753,-10.706,-4.853,-0.937,-3.812,1.827,217.000
+all valid months (as in the paper),Indian River,2015-19 vs 2021-23,-8.350,-11.139,-5.497,-0.715,-3.052,1.571,217.000
+all valid months (as in the paper),Indian River,2020 vs 2023-25,-10.853,,,-1.258,,,217.000
+all valid months (as in the paper),Ridge,2000-05 vs 2019-25,-8.688,-17.455,-0.078,-6.532,-12.748,-0.467,520.000
+all valid months (as in the paper),Ridge,2015-19 vs 2021-25 (no 2020),-9.124,-15.765,-1.587,-6.128,-11.044,-1.013,520.000
+all valid months (as in the paper),Ridge,2016-20 vs 2021-25,-10.427,-18.302,-2.535,-7.291,-13.199,-1.845,520.000
+all valid months (as in the paper),Ridge,2010-19 vs 2023-25,-15.043,-17.772,-11.942,-9.725,-12.668,-6.859,520.000
+all valid months (as in the paper),Ridge,2015-19 vs 2021-23,-5.113,-12.035,1.788,-2.598,-6.259,1.033,520.000
+all valid months (as in the paper),Ridge,2020 vs 2023-25,-24.126,,,-17.548,,,520.000
+all valid months (as in the paper),Southwest Flatwoods,2000-05 vs 2019-25,-3.360,-8.463,1.922,-2.374,-5.861,1.167,961.000
+all valid months (as in the paper),Southwest Flatwoods,2015-19 vs 2021-25 (no 2020),-7.054,-10.818,-2.593,-3.361,-6.082,-0.793,961.000
+all valid months (as in the paper),Southwest Flatwoods,2016-20 vs 2021-25,-7.481,-11.470,-2.747,-4.010,-7.139,-0.783,961.000
+all valid months (as in the paper),Southwest Flatwoods,2010-19 vs 2023-25,-8.717,-10.943,-6.196,-3.807,-5.435,-2.209,961.000
+all valid months (as in the paper),Southwest Flatwoods,2015-19 vs 2021-23,-5.159,-9.465,-0.668,-1.607,-3.340,0.381,961.000
+all valid months (as in the paper),Southwest Flatwoods,2020 vs 2023-25,-14.097,,,-9.269,,,961.000
+observed months only (count >= 1),All,2000-05 vs 2019-25,-5.129,-10.962,1.295,-3.582,-7.476,0.466,1687.500
+observed months only (count >= 1),All,2015-19 vs 2021-25 (no 2020),-7.786,-12.220,-3.101,-3.714,-7.008,-0.887,1687.500
+observed months only (count >= 1),All,2016-20 vs 2021-25,-8.267,-12.924,-3.118,-4.225,-7.682,-0.978,1687.500
+observed months only (count >= 1),All,2010-19 vs 2023-25,-10.567,-12.434,-8.305,-5.310,-7.359,-3.284,1687.500
+observed months only (count >= 1),All,2015-19 vs 2021-23,-5.351,-10.092,-0.626,-1.545,-3.595,0.488,1687.500
+observed months only (count >= 1),All,2020 vs 2023-25,-16.071,,,-9.977,,,1687.500
+observed months only (count >= 1),Indian River,2000-05 vs 2019-25,-4.397,-8.240,-0.035,-1.909,-4.859,1.102,216.000
+observed months only (count >= 1),Indian River,2015-19 vs 2021-25 (no 2020),-9.230,-11.722,-6.540,-1.268,-3.547,1.110,216.000
+observed months only (count >= 1),Indian River,2016-20 vs 2021-25,-8.595,-10.628,-6.413,-0.377,-2.085,1.164,216.000
+observed months only (count >= 1),Indian River,2010-19 vs 2023-25,-7.535,-10.309,-4.656,-0.721,-3.518,2.036,216.000
+observed months only (count >= 1),Indian River,2015-19 vs 2021-23,-8.049,-10.855,-5.259,-0.421,-2.638,1.847,216.000
+observed months only (count >= 1),Indian River,2020 vs 2023-25,-10.484,,,-0.886,,,216.000
+observed months only (count >= 1),Ridge,2000-05 vs 2019-25,-8.913,-18.337,0.333,-6.740,-13.186,-0.505,519.000
+observed months only (count >= 1),Ridge,2015-19 vs 2021-25 (no 2020),-9.209,-15.825,-1.311,-6.196,-11.111,-1.054,519.000
+observed months only (count >= 1),Ridge,2016-20 vs 2021-25,-10.446,-17.765,-2.343,-7.294,-13.047,-1.781,519.000
+observed months only (count >= 1),Ridge,2010-19 vs 2023-25,-15.265,-18.405,-11.955,-10.004,-13.270,-6.814,519.000
+observed months only (count >= 1),Ridge,2015-19 vs 2021-23,-5.168,-12.058,1.707,-2.624,-6.236,0.960,519.000
+observed months only (count >= 1),Ridge,2020 vs 2023-25,-23.747,,,-17.188,,,519.000
+observed months only (count >= 1),Southwest Flatwoods,2000-05 vs 2019-25,-3.758,-8.962,1.552,-2.783,-6.312,0.726,958.500
+observed months only (count >= 1),Southwest Flatwoods,2015-19 vs 2021-25 (no 2020),-7.088,-10.733,-2.722,-3.389,-6.146,-0.916,958.500
+observed months only (count >= 1),Southwest Flatwoods,2016-20 vs 2021-25,-7.498,-11.476,-3.061,-3.996,-7.099,-1.140,958.500
+observed months only (count >= 1),Southwest Flatwoods,2010-19 vs 2023-25,-8.655,-10.658,-6.309,-3.759,-5.502,-2.041,958.500
+observed months only (count >= 1),Southwest Flatwoods,2015-19 vs 2021-23,-5.158,-9.285,-0.987,-1.599,-3.306,0.181,958.500
+observed months only (count >= 1),Southwest Flatwoods,2020 vs 2023-25,-13.978,,,-9.027,,,958.500
+"complete years only (12 valid ET months, no filled ET0)",All,2000-05 vs 2019-25,-1.652,-8.920,6.367,-0.520,-5.305,4.756,1450.500
+"complete years only (12 valid ET months, no filled ET0)",All,2015-19 vs 2021-25 (no 2020),-7.463,-11.788,-2.881,-3.439,-6.548,-0.497,1450.500
+"complete years only (12 valid ET months, no filled ET0)",All,2016-20 vs 2021-25,-8.139,-12.787,-3.128,-4.144,-7.791,-0.586,1450.500
+"complete years only (12 valid ET months, no filled ET0)",All,2010-19 vs 2023-25,-10.188,-12.239,-7.700,-5.019,-7.646,-2.323,1450.500
+"complete years only (12 valid ET months, no filled ET0)",All,2015-19 vs 2021-23,-4.877,-9.256,-0.438,-1.156,-3.035,0.819,1450.500
+"complete years only (12 valid ET months, no filled ET0)",All,2020 vs 2023-25,-15.978,,,-9.905,,,1450.500
+"complete years only (12 valid ET months, no filled ET0)",Indian River,2000-05 vs 2019-25,-5.672,-9.538,-1.446,-4.106,-7.308,-0.672,201.500
+"complete years only (12 valid ET months, no filled ET0)",Indian River,2015-19 vs 2021-25 (no 2020),-8.959,-11.849,-5.933,-1.287,-4.006,1.345,201.500
+"complete years only (12 valid ET months, no filled ET0)",Indian River,2016-20 vs 2021-25,-8.275,-10.780,-5.750,-0.321,-2.307,1.444,201.500
+"complete years only (12 valid ET months, no filled ET0)",Indian River,2010-19 vs 2023-25,-7.461,-10.700,-4.423,-0.792,-3.962,2.327,201.500
+"complete years only (12 valid ET months, no filled ET0)",Indian River,2015-19 vs 2021-23,-7.660,-10.797,-4.499,-0.328,-2.838,2.104,201.500
+"complete years only (12 valid ET months, no filled ET0)",Indian River,2020 vs 2023-25,-10.922,,,-1.241,,,201.500
+"complete years only (12 valid ET months, no filled ET0)",Ridge,2000-05 vs 2019-25,-8.649,-17.999,0.634,-6.660,-13.130,-0.502,469.500
+"complete years only (12 valid ET months, no filled ET0)",Ridge,2015-19 vs 2021-25 (no 2020),-9.619,-16.699,-2.052,-6.736,-11.941,-1.572,469.500
+"complete years only (12 valid ET months, no filled ET0)",Ridge,2016-20 vs 2021-25,-10.691,-18.108,-1.944,-7.677,-13.333,-1.481,469.500
+"complete years only (12 valid ET months, no filled ET0)",Ridge,2010-19 vs 2023-25,-15.885,-19.152,-12.311,-10.840,-14.018,-7.879,469.500
+"complete years only (12 valid ET months, no filled ET0)",Ridge,2015-19 vs 2021-23,-5.681,-13.203,1.818,-3.314,-7.677,1.010,469.500
+"complete years only (12 valid ET months, no filled ET0)",Ridge,2020 vs 2023-25,-23.627,,,-17.255,,,469.500
+"complete years only (12 valid ET months, no filled ET0)",Southwest Flatwoods,2000-05 vs 2019-25,-2.037,-7.753,3.964,-1.272,-5.200,2.500,847.000
+"complete years only (12 valid ET months, no filled ET0)",Southwest Flatwoods,2015-19 vs 2021-25 (no 2020),-7.127,-10.832,-2.891,-3.399,-6.043,-0.858,847.000
+"complete years only (12 valid ET months, no filled ET0)",Southwest Flatwoods,2016-20 vs 2021-25,-7.723,-11.947,-3.164,-4.183,-7.535,-1.068,847.000
+"complete years only (12 valid ET months, no filled ET0)",Southwest Flatwoods,2010-19 vs 2023-25,-8.392,-10.559,-5.928,-3.480,-5.406,-1.659,847.000
+"complete years only (12 valid ET months, no filled ET0)",Southwest Flatwoods,2015-19 vs 2021-23,-5.170,-9.319,-0.894,-1.617,-3.273,0.141,847.000
+"complete years only (12 valid ET months, no filled ET0)",Southwest Flatwoods,2020 vs 2023-25,-14.447,,,-9.386,,,847.000
