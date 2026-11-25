@@ -1,12 +1,15 @@
 # Data and code for: Evapotranspiration of Persistent Florida Citrus Groves during the Huanglongbing Era: Sensitivity to Reference Evapotranspiration and Links to Canopy and Soil Water Storage
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24534652.svg)](https://doi.org/10.5281/zenodo.24534652)
+
 Hugo Rodrigues, Range Cattle Research and Education Center, Institute of Food and Agricultural
 Sciences, University of Florida, Ona, FL, USA.
 
 This archive holds the scripts, derived data and figures behind every number, table and figure
 of the article submitted to *Land* (MDPI), Special Issue "Monitoring and Modelling the Water
 and Carbon Dynamics in the Soil-Plant-Atmosphere Continuum". Version 1.0 corresponds to the
-submitted manuscript.
+submitted manuscript and is archived in Zenodo as
+https://doi.org/10.5281/zenodo.24534652 (all versions: https://doi.org/10.5281/zenodo.24534651).
 
 ## Contents
 
